@@ -5,8 +5,8 @@
 replicaCount: 3
 
 image:
-  repository: saakhtatestregistry.azurecr.io/jackson-api
-  tag: v0.1
+  repository: mtarng/jackson-api
+  tag: v1.1-peoplehobby
   pullPolicy: Always
 
 nameOverride: ""
